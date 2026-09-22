@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuliia</h1>
 <h3 align="center">A young engineer, student at @UCU APPS Robotics</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuliiawis" alt="yuliawis" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuliiawis" alt="Yuliawis" /></a> </p>
 
 - 👯 Take part in **the algoritmic programming competitions**
 
