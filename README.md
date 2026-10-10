@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuliia</h1>
+<h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">A young engineer, student at @UCU APPS Robotics</h3>
 
 
